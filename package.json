@@ -2,7 +2,7 @@
   "name": "website-under-construction",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://deyvitabora.github.io/website-under-construction",
+  "homepage": "http://grintsys.github.io/Grintsys.under-construction",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.27",
     "@testing-library/jest-dom": "^4.2.4",
