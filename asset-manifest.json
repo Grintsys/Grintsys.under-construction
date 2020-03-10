@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Grintsys.under-construction/static/css/main.5215bdae.chunk.css",
+    "main.js": "/Grintsys.under-construction/static/js/main.b33a9930.chunk.js",
+    "main.js.map": "/Grintsys.under-construction/static/js/main.b33a9930.chunk.js.map",
+    "runtime-main.js": "/Grintsys.under-construction/static/js/runtime-main.0c61032b.js",
+    "runtime-main.js.map": "/Grintsys.under-construction/static/js/runtime-main.0c61032b.js.map",
+    "static/css/2.0d6b273a.chunk.css": "/Grintsys.under-construction/static/css/2.0d6b273a.chunk.css",
+    "static/js/2.efdb95dc.chunk.js": "/Grintsys.under-construction/static/js/2.efdb95dc.chunk.js",
+    "static/js/2.efdb95dc.chunk.js.map": "/Grintsys.under-construction/static/js/2.efdb95dc.chunk.js.map",
+    "index.html": "/Grintsys.under-construction/index.html",
+    "precache-manifest.70ee34fd3da0e6b71d69f98c7fc417b4.js": "/Grintsys.under-construction/precache-manifest.70ee34fd3da0e6b71d69f98c7fc417b4.js",
+    "service-worker.js": "/Grintsys.under-construction/service-worker.js",
+    "static/css/2.0d6b273a.chunk.css.map": "/Grintsys.under-construction/static/css/2.0d6b273a.chunk.css.map",
+    "static/css/main.5215bdae.chunk.css.map": "/Grintsys.under-construction/static/css/main.5215bdae.chunk.css.map",
+    "static/js/2.efdb95dc.chunk.js.LICENSE.txt": "/Grintsys.under-construction/static/js/2.efdb95dc.chunk.js.LICENSE.txt",
+    "static/media/19728.png": "/Grintsys.under-construction/static/media/19728.5589ad77.png",
+    "static/media/font-awesome.min.css": "/Grintsys.under-construction/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/logo4.png": "/Grintsys.under-construction/static/media/logo4.d9de8111.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0c61032b.js",
+    "static/css/2.0d6b273a.chunk.css",
+    "static/js/2.efdb95dc.chunk.js",
+    "static/css/main.5215bdae.chunk.css",
+    "static/js/main.b33a9930.chunk.js"
+  ]
+}
